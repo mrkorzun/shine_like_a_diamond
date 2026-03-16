@@ -99,6 +99,7 @@ We practiced **Agile/Scrum** methodologies, including daily stand-ups and mandat
 - **Styling:** CSS3 (Flexbox, Grid, Custom Properties)
 - **Icons:** SVG Sprites
 - **Deployment:** GitHub Pages
+- **Design:** [Figma Prototype](https://www.figma.com/design/7P5JaOLykmEqWPwi4O9YQi/Handmade-Jewelry--Copy-?node-id=5999-10563&t=FXsmKXpjoLKO4GJe-1)
 
 ---
 
