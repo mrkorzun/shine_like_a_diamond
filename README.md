@@ -99,9 +99,12 @@ We practiced **Agile/Scrum** methodologies, including daily stand-ups and mandat
 - **Styling:** CSS3 (Flexbox, Grid, Custom Properties)
 - **Icons:** SVG Sprites
 - **Deployment:** GitHub Pages
-- **Design:** [Figma Prototype](https://www.figma.com/design/7P5JaOLykmEqWPwi4O9YQi/Handmade-Jewelry--Copy-?node-id=5999-10563&t=FXsmKXpjoLKO4GJe-1)
-
 ---
+## 📄 Documentation
+
+- **Technical Specification (TZ):** [View](https://trello.com/c/dbee2B60/25-https-docsgooglecom-presentation-d-1b4f4umx06yazpdi7hai7hefyunwrenqbfdausjcvjx0-editslideidg1213dc4fa4d03967slideidg1213dc4fa4d0)
+- **Design:** [Figma Prototype](https://www.figma.com/design/7P5JaOLykmEqWPwi4O9YQi/Handmade-Jewelry--Copy-?node-id=5999-10563&t=FXsmKXpjoLKO4GJe-1)
+- **Team Presentation:** [View](https://docs.google.com/presentation/d/12zf-8RfkfiQivEFH3CemprcPyw8MdzdY4JfN4Br7ZpE/edit?slide=id.g22c5bd215de_0_40#slide=id.g22c5bd215de_0_40)
 
 ## 🚀 Getting Started Locally
 
